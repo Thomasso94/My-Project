@@ -6,3 +6,8 @@
   border: 1px solid;
   background-color: blue;
 }
+
+.max-1000 {
+  max-width: 1000px;
+  margin: 0 auto;
+}
